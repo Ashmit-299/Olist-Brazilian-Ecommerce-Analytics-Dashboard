@@ -18,7 +18,7 @@ The dashboard helps analyze revenue performance, order trends, customer behavior
 
 
 
-!\[image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/5688b9e3498c26d439c5a9ef9c8f7ed1b3adb455/images/Combined%20Olist%20Dashboard.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/5688b9e3498c26d439c5a9ef9c8f7ed1b3adb455/images/Combined%20Olist%20Dashboard.png)
 
 
 
@@ -1344,12 +1344,7 @@ If your final report contains only 8 pages, remove the 9th page from this list.
 
 
 
-
-
 ###### 📌 **Dashboard Features / Highlights**
-
-
-
 
 
 1\. Executive Overview
@@ -1395,9 +1390,6 @@ Business Purpose
 This page helps users quickly understand the overall performance of the e-commerce marketplace.
 
 
-
-
-
 2\. Revenue Performance
 
 
@@ -1437,9 +1429,6 @@ Business Purpose
 This page helps analyze how revenue is changing over time and which categories contribute most to yearly performance.
 
 
-
-
-
 3\. Category Analysis
 
 
@@ -1475,9 +1464,6 @@ Business Purpose
 
 
 This page helps identify high-revenue categories, high-AOV categories, and categories with better or weaker customer ratings.
-
-
-
 
 
 4\. Customer Geography
@@ -1517,9 +1503,6 @@ Business Purpose
 This page helps understand which Brazilian states and cities generate the highest business contribution.
 
 
-
-
-
 5\. Delivery Performance
 
 
@@ -1555,9 +1538,6 @@ Business Purpose
 
 
 This page helps identify logistics delays, late delivery patterns, and regions/categories that need operational improvement.
-
-
-
 
 
 6\. Customer Reviews
@@ -1720,8 +1700,6 @@ This page helps users drill through from a selected category and analyze its det
 
 
 
-
-
 ###### 🧭 **Navigation and User Experience**
 
 
@@ -1763,8 +1741,6 @@ Clean report structure
 Useful for portfolio presentation
 
 Similar to real business dashboards
-
-
 
 
 
@@ -1840,8 +1816,6 @@ Identifies late delivery areas and categories with weaker fulfillment performanc
 
 
 
-
-
 ###### 🧮 **Key DAX Measures**
 
 
@@ -1868,65 +1842,61 @@ Note: Table and column names may differ depending on the final Power BI model. U
 
 
 
-
-
 ###### 📷 **Screenshots / Dashboard Preview**
 
 
 
 1\. Executive Overview
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
-
-
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Overview(Executive%20Dashboard).png)
 
 
 
 2\. Revenue Performance
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Sales%20Trend.png)
 
 
 
 3\. Category Analysis
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Category%20%26%20Product.png)
 
 
 
 4\. Customer Geography
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Customer_Geo.png)
 
 
 
 5\. Delivery Performance
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Delivery%20%26%20Logistics.png)
 
 
 
 6\. Customer Reviews
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Reviews.png)
 
 
 
 7\. Payment Analysis
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Payments%20Details.png)
 
 
 
 8\. Seller Performance
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Seller.png)
 
 
 
 9\. Category Detail / Drill-through
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Drillthrough.png)
 
 
 
@@ -1990,8 +1960,6 @@ Olist-Brazilian-Ecommerce-Analytics-Dashboard/
 
 
 
-
-
 ###### 🚀 **How to Use**
 
 
@@ -2019,8 +1987,6 @@ Use slicers and filters to analyze revenue, orders, customers, categories, selle
 Navigate between report pages using the dashboard pages.
 
 Use the drill-through page for detailed category analysis.
-
-
 
 
 
@@ -2064,23 +2030,10 @@ The dashboard helps stakeholders monitor e-commerce marketplace performance, ide
 
 
 
-
-
 ###### 👤 **Author**
 
-
-
 Ashmit Pandey
-
-
-
 GitHub: https://github.com/Ashmit-299
-
-
-
 LinkedIn: www.linkedin.com/in/ashmit-pandey-269675357
-
-
-
 Email: pandeyashmit299@gmail.com
 
