@@ -18,7 +18,7 @@ The dashboard helps analyze revenue performance, order trends, customer behavior
 
 
 
-!\[image alt](https://github.com/Ashmit-299/Supply-Chain-Business-Transformation-Dashboard/blob/8687027e6fe78e1aa7863d7c5284bb06d28061e5/images/Combined%20Look.png)
+!\[image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/5688b9e3498c26d439c5a9ef9c8f7ed1b3adb455/images/Combined%20Olist%20Dashboard.png)
 
 
 
