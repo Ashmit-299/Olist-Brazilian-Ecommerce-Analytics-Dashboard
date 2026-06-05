@@ -1848,7 +1848,7 @@ Note: Table and column names may differ depending on the final Power BI model. U
 
 1\. Executive Overview
 
-![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/419d74ed975015945e4bb89befa474ad7b11702e/images/Overview(Executive%20Dashboard).png)
+![image alt](https://github.com/Ashmit-299/Olist-Brazilian-Ecommerce-Analytics-Dashboard/blob/5688b9e3498c26d439c5a9ef9c8f7ed1b3adb455/images/Combined%20Olist%20Dashboard.png)
 
 
 
