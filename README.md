@@ -2033,6 +2033,8 @@ The dashboard helps stakeholders monitor e-commerce marketplace performance, ide
 ###### 👤 **Author**
 
 Ashmit Pandey
+
 Data Analyst | Power BI | SQL | Excel | DAX | Power Query
-LinkedIn: www.linkedin.com/in/ashmit-pandey-data-analyst | GitHub: your-github-link
+
+LinkedIn: www.linkedin.com/in/ashmit-pandey-data-analyst | GitHub: https://github.com/Ashmit-299
 
