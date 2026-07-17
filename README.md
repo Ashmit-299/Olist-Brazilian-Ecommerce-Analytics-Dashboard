@@ -2036,5 +2036,5 @@ Ashmit Pandey
 
 Data Analyst | Power BI | SQL | Excel | DAX | Power Query
 
-LinkedIn: www.linkedin.com/in/ashmit-pandey-data-analyst | GitHub: https://github.com/Ashmit-299
+LinkedIn: www.linkedin.com/in/ashmit299 | GitHub: https://github.com/Ashmit-299
 
